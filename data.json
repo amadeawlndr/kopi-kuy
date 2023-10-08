@@ -1,120 +1,85 @@
 {
-    "coffee": [
-      {
-        "nama": "Kopi Susu",
-        "size": "250 Ml",
-        "harga": "25.000",
-        "link": "#",
-        "foto": "images/produk/product_kopi_susu.jpg"
-      },
-      {
-        "nama": "Americano",
-        "size": "100 Ml",
-        "harga": "20.000",
-        "link": "#",
-        "foto": "images/produk/americano.jpg"
-      },
-      {
-        "nama": "Espresso",
-        "size": "150 Ml",
-        "harga": "20.000",
-        "link": "#",
-        "foto": "images/produk/product_espresso.jpg"
-      },
-      {
-        "nama": "Latte",
-        "size": "250 Ml",
-        "harga": "27.000",
-        "link": "#",
-        "foto": "images/produk/product_latte.jpg"
-      },
-      {
-        "nama": "Capuchino",
-        "size": "250 Ml",
-        "harga": "25.000",
-        "link": "#",
-        "foto": "images/produk/product_capuchino.jpg"
-      }
-    ],
-    "noncoffee": [
-      {
-        "nama": "Matcha Milk Tea",
-        "size": "250 Ml",
-        "harga": "27.000",
-        "link": "#",
-        "foto": "images/produk/matcha_milktea.jpg"
-      },
-      {
-        "nama": "Thai Tea",
-        "size": "250 Ml",
-        "harga": "20.000",
-        "link": "#",
-        "foto": "images/produk/thaitea.jpg"
-      },
-      {
-        "nama": "Chocolate Milk Tea",
-        "size": "250 Ml",
-        "harga": "25.000",
-        "link": "#",
-        "foto": "images/produk/chocolate_milktea.jpg"
-      },
-      {
-        "nama": "Mango Smoothies",
-        "size": "250 Ml",
-        "harga": "30.000",
-        "link": "#",
-        "foto": "images/produk/mango_smoothie.jpg"
-      },
-      {
-        "nama": "Oreo Milkshake",
-        "size": "250 Ml",
-        "harga": "28.000",
-        "link": "#",
-        "foto": "images/produk/oreo_milkshake.jpg"
-      },
-      {
-        "nama": "Mineral Water",
-        "size": "600 Ml",
-        "harga": "10.000",
-        "link": "#",
-        "foto": "images/produk/mineral_water.jpg"
-      }
-    ],
-    "dessert": [
-      {
-        "nama": "Croissant",
-        "size": "1 Pcs",
-        "harga": "12.000",
-        "link": "#",
-        "foto": "images/produk/croissant.jpg"
-      },
-      {
-        "nama": "Cheesecake",
-        "size": "1 Slice",
-        "harga": "15.000",
-        "link": "#",
-        "foto": "images/produk/cheesecake.jpg"
-      },
-      {
-        "nama": "Ice Cream",
-        "size": "2 Scope",
-        "harga": "15.000",
-        "link": "#",
-        "foto": "images/produk/ice_cream.jpg"
-      },
-      {
-        "nama": "Doughnut",
-        "size": "1 Pcs",
-        "harga": "8.000",
-        "link": "#",
-        "foto": "images/produk/doughnut.webp"
-      },
-      {
-        "nama": "Cupcake",
-        "size": "1 Pcs",
-        "harga": "8.000",
-        "link": "#",
-        "foto": "images/produk/cupcake.webp"
-      }
-    ]
-  }
+  "arabica": [
+    {
+      "nama": "Arabica Toraja",
+      "size": "200 Gram",
+      "harga": "Rp. 61.900",
+      "link": "https://shopee.co.id/product/11819946/84508051",
+      "foto": "images/produk/a_toraja.jpg"
+    },
+    {
+      "nama": "Arabica Papua Wamena",
+      "size": "200 Gram",
+      "harga": "Rp. 69.900",
+      "link": "https://shopee.co.id/Kopi-Arabika-Papua-Wamena-200-Gram-BUBUK-BIJI-Premium-Arabica-Coffee-i.11819946.589270663",
+      "foto": "images/produk/a_papua.jpg"
+    },
+    {
+      "nama": "Arabica Sidikalang",
+      "size": "200 Gram",
+      "harga": "Rp. 61.900",
+      "link": "https://shopee.co.id/product/11819946/4815911005",
+      "foto": "images/produk/a_sidikalang.jpg"
+    },
+    {
+      "nama": "Arabica Flores Bajawa",
+      "size": "200 Gram",
+      "harga": "Rp. 61.900",
+      "link": "https://shopee.co.id/product/11819946/4815911005",
+      "foto": "images/produk/a_flores.jpg"
+    }
+  ],
+  "robusta": [
+    {
+      "nama": "Robusta Aceh Gayo",
+      "size": "200 Gram",
+      "harga": "Rp. 43.000",
+      "link": "https://shopee.co.id/product/11819946/7845550199",
+      "foto": "images/produk/r_aceh.jpg"
+    },
+    {
+      "nama": "Java Robusta",
+      "size": "200 Gram",
+      "harga": "Rp. 43.000",
+      "link": "https://shopee.co.id/Sentra-Kopi-Java-Robusta-200-Gram-Bubuk-Biji-Premium-Coffee-i.11819946.760735466",
+      "foto": "images/produk/r_java.jpg"
+    },
+    {
+      "nama": "Robusta Bali",
+      "size": "200 Gram",
+      "harga": "Rp. 43.000",
+      "link": "https://shopee.co.id/Sentra-Kopi-Robusta-Bali-200-Gram-Bubuk-Biji-Premium-Robusta-Coffee-i.11819946.23720151273",
+      "foto": "images/produk/r_bali.jpg"
+    },
+    {
+      "nama": "Lampung Robusta",
+      "size": "200 Gram",
+      "harga": "Rp. 43.000",
+      "link": "https://shopee.co.id/Kopi-Lampung-200-Gram-Bubuk-Biji-Robusta-Coffee-i.11819946.760682630",
+      "foto": "images/produk/r_lampung.jpg"
+    }
+  ],
+  "nonkopi": [
+    {
+      "nama": "Matcha Original",
+      "size": "800 Gram",
+      "harga": "Rp. 156.510",
+      "link": "https://www.tokopedia.com/masteristaid/bubuk-minuman-matcha-original?extParam=ivf%3Dtrue&src=topads",
+      "foto": "images/produk/matcha_org.png"
+    },
+    {
+      "nama": "Premium Cotton Candy",
+      "size": "800 Gram",
+      "harga": "Rp. 156.510",
+      "link": "https://www.tokopedia.com/masteristaid/bubuk-minuman-premium-cotton-candy-masterista-800gr?extParam=src%3Dshop%26whid%3D4087993",
+      "foto": "images/produk/cotton_candy.jpg"
+    },
+    {
+      "nama": "Lemonade",
+      "size": "1 KG",
+      "harga": "Rp. 78.000",
+      "link": "https://www.tokopedia.com/masteristaid/bubuk-minuman-masterista-ice-shaken-all-variant-lemonade?extParam=src%3Dshop%26whid%3D4087993",
+      "foto": "images/produk/lemonade.jpg"
+    }
+  ]
+}
